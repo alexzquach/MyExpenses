@@ -1,2 +1,2 @@
 # MyExpenses
-a small iOS side projected I created over my winter break
+a small iOS side project I created over my winter break
